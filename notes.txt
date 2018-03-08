@@ -1,0 +1,10 @@
+The <template> block is where we define the visual elements of the page. We will work inside the <template> block, adding interface elements to construct the app.
+  
+The <style> block defines the look and feel of the interface elements in the <template> block. This is where we will put CSS rules that define styles.
+  
+The <script> block contains code that defines your app and provides its functionality. This is also where we'll add things like methods that get called when the user clicks a button.
+
+polymer serve - The Polymer development server starts up
+
+bower install app-layout --save - install elements, add to bower.json dependencies
+
